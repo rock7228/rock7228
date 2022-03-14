@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rock7228
 - 👀 I manage servers on Discord.
-- 📫 Discord User: rock#7228 
+- 📫 Discord User: rock#6032
 
 <!---
 rock7228/rock7228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
